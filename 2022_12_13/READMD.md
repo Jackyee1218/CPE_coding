@@ -4,7 +4,7 @@
 #### 1. 10931
 [10931 - 題目](https://cpe.cse.nsysu.edu.tw/cpe/file/attendance/problemPdf/10931.pdf)
 
-[10931 - 解題](https://zerojudge.tw/ShowProblem?problemid=c014)
+[10931 - 解題](https://zerojudge.tw/ShowProblem?problemid=a132)
 
 
 
