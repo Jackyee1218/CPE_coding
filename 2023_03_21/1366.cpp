@@ -30,8 +30,8 @@ int main() {
 	
 		for(int i = 1; i <= n; i++) {
 			for(int j = 1; j <= m; j++) {
-				// dp[i][j][0]  from previous to now + suma[i][j];
-				// dp[i][j][1] from previous to now + sumb[i][j];
+				// dp[i][j][0]  from previous dp + suma[i][j];
+				// dp[i][j][1] from previous dp + sumb[i][j];
 				dp[i][j][0] = max(dp[i-1][j][0] , dp[i-1][j][1]) + suma[i][j];
 				dp[i][j][1] = max(dp[i][j-1][1] , dp[i][j-1][0]) + sumb[i][j];
 			}
