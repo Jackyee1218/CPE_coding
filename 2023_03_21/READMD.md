@@ -52,7 +52,7 @@
 
 
 #### 7. 11624
-[11624 - 題目](https://hackmd.io/UKtO2d5OQUKmf1BmRnk5nw?view#httpszerojudgetwShowProblemproblemidd131)
+[11624 - 題目](https://cpe.cse.nsysu.edu.tw/cpe/file/attendance/problemPdf/11624.pdf)
 
 [11624 - 解題](https://zerojudge.tw/ShowProblem?problemid=e699)
 
