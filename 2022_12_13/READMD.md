@@ -12,7 +12,7 @@
 #### 2. 10789
 [10789 - 題目](https://cpe.cse.nsysu.edu.tw/cpe/file/attendance/problemPdf/10789.pdf)
 
-[10789 - 解題](https://zerojudge.tw/ShowProblem?problemid=j038)
+[10789 - 解題](https://zerojudge.tw/ShowProblem?problemid=a537)
 
 
 
