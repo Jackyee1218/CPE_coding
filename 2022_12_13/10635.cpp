@@ -1,3 +1,12 @@
+
+
+
+
+
+/*
+TIME : n^2
+status : TLE
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -31,3 +40,4 @@ int main() {
 		
 	}
 }
+*/
