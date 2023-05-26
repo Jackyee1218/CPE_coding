@@ -19,7 +19,7 @@
 #### 3. 834
 [834 - 題目](https://cpe.cse.nsysu.edu.tw/cpe/file/attendance/problemPdf/834.pdf)
 
-**834 - 無解題網**
+[834 - 解題](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=775)
 
 
 
@@ -42,7 +42,7 @@
 #### 6. 828
 [828 - 題目](https://cpe.cse.nsysu.edu.tw/cpe/file/attendance/problemPdf/828.pdf)
 
-[828 - 解題](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=775)
+[828 - 解題](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=769)
 
 
 
