@@ -35,14 +35,14 @@
 #### 5. 512
 [512 - 題目](https://cpe.cse.nsysu.edu.tw/cpe/file/attendance/problemPdf/512.pdf)
 
-**512  - 無解題網**
+[512 - 解題](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=453)
 
 
 
 #### 6. 828
 [828 - 題目](https://cpe.cse.nsysu.edu.tw/cpe/file/attendance/problemPdf/828.pdf)
 
-**828 - 無解題網**
+[828 - 解題](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=775)
 
 
 
@@ -50,4 +50,4 @@
 #### 7. 1714
 [1714 - 題目](https://cpe.cse.nsysu.edu.tw/cpe/file/attendance/problemPdf/1714.pdf)
 
-**1714 - 無解題網**
+[1714 - 解題](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4787)
